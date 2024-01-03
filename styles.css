@@ -1,4 +1,4 @@
-{
+* {
     margin: 0;
     padding: 0;
   }
@@ -35,16 +35,16 @@
   li {
     list-style: none;
   }
-img {
-    max-width: 100%;
-    height: auto;
-    display: flex;
-  }
-
-
+  
   a {
     color: #444444;
     text-decoration: none;
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto;
+    display: flex;
   }
   
   /* Navigation */
@@ -298,8 +298,5 @@ img {
   footer .code {
     color: #444444;
   }
-
-footer .code {
-  color: #444444;
-}
-
+  
+ 
